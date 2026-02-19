@@ -68,14 +68,14 @@ _Private Government - HR Service, Rabat_ | _Sept 2022 – Dec 2022_
 
 ---
 
-### 📫 Connect with Me
-
-- 📧 **Email**: [izzyxnac@gmail.com](mailto:izzyxnac@gmail.com)
-- 📱 **Phone**: +212 665-804847
 
 
 
 
 <!--
 **izzyxnac/izzyxnac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Connect with Me
+
+- 📧 **Email**: [izzyxnac@gmail.com](mailto:izzyxnac@gmail.com)
+- 📱 **Phone**: +212 665-804847
 -->
