@@ -100,8 +100,13 @@ _Moroccan Government Agency (confidential)_ | _Sept 2022 – Dec 2022_
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izzyxnac&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzyxnac&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izzyxnac&theme=tokyonight" height="165" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izzyxnac&theme=tokyonight" height="165" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izzyxnac&theme=tokyonight" height="165" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izzyxnac&theme=tokyonight&utcOffset=1" height="165" alt="Productive Time"/>
 </p>
 
 <p align="center">
