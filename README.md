@@ -99,8 +99,14 @@ _Moroccan Government Agency (confidential)_ | _Sept 2022 – Dec 2022_
 
 ### 📊 GitHub Stats
 
-![Issam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzyxnac&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzyxnac&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=izzyxnac&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzyxnac&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzyxnac&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
