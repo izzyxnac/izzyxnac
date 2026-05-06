@@ -4,67 +4,103 @@
 
 Based in **Rabat, Morocco** 🇲🇦
 
-I am a passionate developer with a strong focus on **Artificial Intelligence**, **MLOps**, and **Secure On-Premise Solutions**. I specialize in integrating Large Language Models (LLMs) and optimizing software infrastructures to meet high standards of performance and data sovereignty.
+Passionate developer specializing in **Industrial AI**, **MLOps**, and **Secure On-Premise Solutions**. I architect production-grade AI pipelines — from air-gapped LLM infrastructures to high-performance quantized NLP systems — with a strong focus on performance, security, and data sovereignty.
 
-Currently, I am working at the **Private Government** as an AI Engineer, building secure, automated AI pipelines.
+Currently working at a **Moroccan Government Agency** as an AI Engineer, leading the industrialization of secure, automated AI systems.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**AI & Machine Learning**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**AI & Machine Learning**
 
-- **LLMs & RAG**: Ollama, Open WebUI, n8n, Prompt Engineering
-- **MLOps**: DVC, Model Monitoring, Automated Retraining
-- **Tools**: PySCIPOpt (MIP), CamemBERT, Pandas, VectorDB (Qdrant, pgvector)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Web Development**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- **LLMs & RAG**: Ollama, Open WebUI, n8n, Prompt Engineering, VectorDB (Qdrant, pgvector)
+- **NLP**: CamemBERTav2, ONNX Runtime (INT8 Quantization), Transformers
+- **Computer Vision**: YOLO11, YOLOv8, OpenCV, InsightFace (ResNet100)
+- **MLOps**: DVC, Prometheus, Automated Drift Detection, Kubernetes, pip-audit, Trivy
+- **Optimization**: PySCIPOpt (MIP), Pandas
 
-- **Backend**: FastAPI, Express.js
-- **Frontend**: TypeScript, Shadcn UI, Redux Toolkit
-- **Infrastructure**: IIS, SQL Server, Git/GitHub
+**Web Development**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+- **Backend**: FastAPI, ASP.NET Core, Node.js/Express
+- **Frontend**: Next.js 15+ (App Router), React, TypeScript, Tailwind CSS v4, Framer Motion
+- **ORM & DB**: Drizzle ORM, PostgreSQL, SQL Server, SQLite
+- **Security**: AES-256-GCM, RBAC, JWT, EU AI Act compliance
 
 ---
 
 ### 💼 Professional Experience
 
-**AI Engineer / LLMs – Secure On-Premise Solutions**  
-_Private Government - HR Service, Rabat_ | _Feb 2025 – Present_
+**AI Engineer / Industrial AI Scale-up**
+_Moroccan Government Agency (confidential)_ | _2026 – Present_
 
-- Integrate LLMs into secure intranet environments using **Ollama** and **Open WebUI**.
-- Orchestrate local **RAG pipelines** with n8n and PostgreSQL VectorDB.
-- Deploy customized models for document summarization and infraction detection.
+- Scaled an AI prototype to a **production-grade two-stage pipeline** for automated document processing in an air-gapped intranet.
+- Deployed **CamemBERTav2** (INT8 quantized, ONNX Runtime) achieving **<100ms inference on CPU**.
+- Full-stack implementation: FastAPI, React, SQLite with AES-256-GCM audit logs, RBAC.
 
-**AI Developer / MLOps**  
-_Private Government - HR Service, Rabat_ | _June 2024 – June 2025_
+**AI Engineer / LLMs – Secure On-Premise Solutions**
+_Moroccan Government Agency (confidential)_ | _Feb 2025 – Present_
 
-- Designed production AI solutions for automatic evaluation scoring using **CamemBERT**.
-- Built full-stack containerized applications (FastAPI, React, Docker).
-- Implemented automated retraining mechanisms for drift detection.
+- Integrated LLMs into secure intranet environments using **Ollama** and **Open WebUI** (Docker).
+- Orchestrated local **RAG pipelines** with n8n and PostgreSQL VectorDB for document analysis.
 
-**Full Stack Developer (ASP.NET / Node.js)**  
-_Private Government - HR Service, Rabat_ | _Dec 2022 – Oct 2023_
+**AI Developer / MLOps**
+_Moroccan Government Agency (confidential)_ | _June 2024 – June 2025_
 
-- Developed a national platform for managing administrative requests.
-- Implemented microservices architecture in **Node.js/Express**.
-- Designed **RBAC** systems and integrated Alfresco APIs for document management.
+- Designed production AI solutions for automatic text evaluation using **CamemBERT**.
+- Built MLOps pipelines with **DVC**, **Prometheus** monitoring, and automated drift detection.
 
-**Python Developer**  
-_Private Government - HR Service, Rabat_ | _Sept 2022 – Dec 2022_
+**Full Stack Developer**
+_Moroccan Government Agency (confidential)_ | _Dec 2022 – Oct 2023_
 
-- Developed automated personnel assignment optimization using **Mixed-Integer Programming (MIP)** and **PySCIPOpt**.
+- Developed a national-scale platform with **microservices architecture** (Node.js/Express, ASP.NET).
+- Implemented **RBAC** systems and integrated Alfresco APIs for document management.
+
+**Python Developer**
+_Moroccan Government Agency (confidential)_ | _Sept 2022 – Dec 2022_
+
+- Built automated personnel assignment optimization using **Mixed-Integer Programming (MIP)** and **PySCIPOpt**.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **NotationAI** | Industrial two-stage AI pipeline for automated evaluation in air-gapped environments | CamemBERTav2, ONNX, FastAPI, DVC |
+| **MIW** | Bio-chaotic VAE-GAN steganography for medical images (>51dB PSNR) | PyTorch, ONNX, Hydra |
+| **P.P.A** | Full-stack HACCP/Qualiopi training management platform | Next.js 15, Drizzle, PostgreSQL |
+| **GestAut** | Real-time gesture recognition with YOLO11 | YOLO11, FastAPI, CUDA |
+| **Spam Detection** | End-to-end MLOps NLP pipeline with Kubernetes | CamemBERTav2, DVC, Prometheus, K8s |
+| **Face Recognition** | GPU-accelerated face identification with InsightFace | InsightFace, ONNX Runtime GPU |
 
 ---
 
 ### 🎓 Education
 
-- **Engineering Degree in Computer Engineering and Data Science**  
-  SUPMTI Rabat | _2024 - 2026_
+- **Engineering Degree in Computer Engineering and Data Science**
+  SUPMTI Rabat | _2024 – 2026_
 
-- **Bachelor's Degree in Information Systems Engineering**  
-  SUPMTI Rabat | _2023 - 2024_
+- **Bachelor's Degree in Information Systems Engineering**
+  SUPMTI Rabat | _2023 – 2024_
+
+---
+
+### 📊 GitHub Stats
+
+![Issam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzyxnac&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzyxnac&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -72,10 +108,4 @@ _Private Government - HR Service, Rabat_ | _Sept 2022 – Dec 2022_
 
 - 📧 **Email**: [izzyxnac@gmail.com](mailto:izzyxnac@gmail.com)
 - 🌐 **Portfolio**: [portfolio.naciri.me](https://portfolio.naciri.me)
-
-
-<!--
-**izzyxnac/izzyxnac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 📱 **Phone**: +212 665-804847
--->
+- 💼 **LinkedIn**: [issam-naciri](https://www.linkedin.com/in/issam-naciri-49609288/)
